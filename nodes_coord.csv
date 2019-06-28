@@ -1,0 +1,60 @@
+id,sex,age_years,office_type,rural_urban
+region1,na,na,Regional Office,na
+region2,na,na,Regional Office,na
+region3,na,na,Regional Office,na
+region4,na,na,Regional Office,na
+region5,na,na,Regional Office,na
+city1,na,na,City,rural  
+city2,na,na,City,rural
+city3,na,na,City,rural
+city4,na,na,City,urban
+city5,na,na,City,rural
+city6,na,na,City,rural
+city7,na,na,City,rural  
+city8,na,na,City,rural
+city9,na,na,City,rural
+city10,na,na,City,urban
+city11,na,na,City,rural
+city12,na,na,City,rural
+city13,na,na,City,urban
+city14,na,na,City,urban
+city15,na,na,City,urban
+city16,na,na,City,urban
+city17,na,na,City,urban
+city18,na,na,City,rural
+city19,na,na,City,rural
+city20,na,na,City,rural
+city21,na,na,City,rural
+city22,na,na,City,rural
+city23,na,na,City,rural
+city24,na,na,City,rural
+city25,na,na,City,rural
+city26,na,na,City,rural
+city27,na,na,City,rural
+city28,na,na,City,rural
+city29,na,na,City,rural
+city30,na,na,City,rural
+city31,na,na,City,rural
+city32,na,na,City,rural
+city33,na,na,City,rural
+city34,na,na,City,urban
+city35,na,na,City,urban
+city36,na,na,City,rural
+city37,na,na,City,rural
+city38,na,na,City,rural
+city39,na,na,City,rural
+city40,na,na,City,rural
+city41,na,na,City,rural
+city42,na,na,City,rural
+city43,na,na,City,rural
+city44,na,na,City,urban
+city45,na,na,City,urban
+city46,na,na,City,urban
+city47,na,na,City,urban
+city48,na,na,City,urban
+statehealth,na,na,State Office,na
+stateemergency,na,na,State Office,na
+statetransport,na,na,State Office,na
+stateenvironment,na,na,State Office,na
+statelaw,na,na,State Office,na
+govoffice,na,na,State Office,na
