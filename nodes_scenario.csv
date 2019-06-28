@@ -1,0 +1,19 @@
+id,age_years,sex,classification,county,SexWorker,Bar,MSM,drugUse
+MALE1,34,M,case,davidson,no,yes,no,no
+MALE2,22,M,case,davidson,no,yes,no,no
+MALE3,45,M,case,davidson,no,yes,no,no
+FEM1,23,F,case,davidson,yes,no,no ,yes
+FEM2,24,F,contact,davidson,no,no,no,no
+FEM3,26,F,contact,davidson,no,no,no,no
+MALE4,32,M,case,davidson,yes,no,yes,yes
+MALE5,64,M,case,davidson,yes,no,yes,no
+MALE6,63,M,contact,davidson,no,no,yes,no
+MALE7,64,M,contact,davidson,no,no,yes,no
+MALE8,25,M,contact,hamilton,no,no,yes,yes
+MALE9,34,M,case,davidson,no,no,yes,yes
+MALE10,26,M,contact,davidson,no,no,yes,yes
+MALE11,67,M,case,davidson,no,no,yes,yes
+MALE12,24,M,case,shelby,no,no,yes,yes
+MALE13,35,M,case,hamilton,yes,no,yes,yes
+MALE14,57,M,case,rutherford,yes,no,yes,no
+MALE15,43,M,contact,davidson,no,no,yes,yes
